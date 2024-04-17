@@ -17,7 +17,7 @@ int main()
     bool accesoUsuarios;
     //creditosModulo();
 
-    accesoUsuarios=usuarioRegistrado.loginUsuarios();
+    accesoUsuarios==usuarioRegistrado.loginUsuarios();
     if (accesoUsuarios){
         cout<<"Bienvenido";
     }

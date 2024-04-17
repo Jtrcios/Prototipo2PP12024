@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1713349506 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\src\bitacora.cpp
+1713350596 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\src\bitacora.cpp
 	"bitacora.h"
 	<iostream>
 	<fstream>
@@ -16,10 +16,19 @@
 
 1713348018 c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\include\crud9959224451.h
 
-1713348052 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\src\reportes9959224451.cpp
+1713351662 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\src\reportes9959224451.cpp
 	"reportes9959224451.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
 
-1713348052 c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\include\reportes9959224451.h
+1713351539 c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\include\reportes9959224451.h
+	<iostream>
 
 1713349506 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\src\usuarios.cpp
 	"usuarios.h"
@@ -32,7 +41,7 @@
 1713349506 c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\include\usuarios.h
 	<iostream>
 
-1713349652 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\main.cpp
+1713350454 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\main.cpp
 	<iostream>
 	<fstream>
 	"usuarios.h"
