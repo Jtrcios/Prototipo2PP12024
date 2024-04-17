@@ -1,0 +1,3 @@
+usuario        100            LOGS           
+usuario        100            LOGS           
+usuario        100            LOGS           

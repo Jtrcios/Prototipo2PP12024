@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1713349506 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713349506 c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\include\bitacora.h
+	<iostream>
+
+1713348018 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\src\crud9959224451.cpp
+	"crud9959224451.h"
+
+1713348018 c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\include\crud9959224451.h
+
+1713348052 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\src\reportes9959224451.cpp
+	"reportes9959224451.h"
+
+1713348052 c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\include\reportes9959224451.h
+
+1713349506 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"bitacora.h"
+
+1713349506 c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\include\usuarios.h
+	<iostream>
+
+1713349652 source:c:\users\usuario\desktop\parcial #2\prototipo2pp12024\parcial2\main.cpp
+	<iostream>
+	<fstream>
+	"usuarios.h"
+	"bitacora.h"
+	"reportes9959224451.h"
+	"crud9959224451.h"
+
