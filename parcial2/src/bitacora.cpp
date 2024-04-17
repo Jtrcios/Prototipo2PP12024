@@ -85,4 +85,3 @@ void bitacora::desplegar()
 
 
 
-
